@@ -1,6 +1,6 @@
 # Ethan Sun — Portfolio
 
-Links: [Resume](pdf/resume.pdf) · [Portfolio](pdf/portfolio.pdf) · [LinkedIn](https://...) · [Email](mailto:...)
+Links: [Resume]() · [Portfolio](pdf/portfolio.pdf) · [LinkedIn](https://linkedin.com/in/ethsun-ubc882) · [Email](EthanSun882@gmail.com)
 
 ## Planetary Gearbox (3-speed)
 ![Exploded](images/gearbox_exploded.jpg)
