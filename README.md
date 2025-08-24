@@ -3,7 +3,7 @@
 Links: [Resume](pdf/resume.pdf) · [Portfolio](pdf/portfolio.pdf) · [LinkedIn](https://linkedin.com/in/ethsun-ubc882) · [Email](mailto:EthanSun882@gmail.com)
 
 ## Planetary Gearbox (3-speed)
-![Exploded](images/gearbox_exploded.jpg)
+![Exploded](images/Quad View.png)
 - Goal: learn tolerances/backlash, selectable ratios
 - M1 gears, PLA/PETG
 - Result: smooth assembly, drawing pack  
